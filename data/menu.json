@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Trang chủ",
+    "href": "/"
+  },
+  {
+    "name": "Bó hoa",
+    "href": "/bo-hoa",
+    "sub": [
+      {"name": "Bó hoa Mix", "href": "/category/bo-hoa-mix"},
+      {"name": "Hoa Hồng", "href": "/category/hoa-hong"},
+      {"name": "Hoa Tulip", "href": "/category/tulip"},
+      {"name": "Hoa Cẩm Chướng", "href": "/category/cam-chuong"},
+      {"name": "Hoa Mẫu Đơn", "href": "/category/mau-don"}
+    ]
+  },
+  {
+    "name": "Kệ hoa & Giỏ hoa",
+    "href": "/category/chau-gio-hoa",
+    "sub": [
+      {"name": "Giỏ tam giác", "href": "/category/gio-tam-giac"},
+      {"name": "Chậu giỏ hoa", "href": "/category/chau-gio-hoa"},
+      {"name": "Kệ hoa chúc mừng", "href": "/category/ke-hoa"}
+    ]
+  },
+  {
+    "name": "Best Seller",
+    "href": "/best-seller"
+  },
+  {
+    "name": "Hoa mới về",
+    "href": "/new"
+  },
+  {
+    "name": "Chuyện về hoa",
+    "href": "/chuyen-ve-hoa",
+    "sub": [
+      {"name": "Tuyển dụng", "href": "/chuyen-ve-hoa/tuyen-dung"},
+      {"name": "Khóa học chuyên sâu", "href": "/chuyen-ve-hoa/khoa-hoc-chuyen-sau"},
+      {"name": "Sự kiện", "href": "/chuyen-ve-hoa/event"}
+    ]
+  },
+  {
+    "name": "Liên hệ",
+    "href": "/lien-he"
+  }
+]

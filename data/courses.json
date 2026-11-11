@@ -1,0 +1,29 @@
+[
+  {
+    "href": "/chuyen-ve-hoa/khoa-hoc-chuyen-sau",
+    "name": "Khóa Học Cơ Bản",
+    "level": "Cơ Bản",
+    "duration": "7 buổi học",
+    "price": "15.000.000 đ",
+    "description": "Khám phá nghệ thuật cắm hoa từ những kiến thức nền tảng nhất. Học cách phối màu, kỹ thuật cắm hoa bình và bó hoa nghệ thuật.",
+    "image": "https://cdn.thofleur.com/vuIE2KAegfZJ0fWyIiQG7sA8yEByUQYtPY0Vh980qy8/resize:fit:1280:0/czM6Ly90aG9mbGV1ci1maWxlcy9LaMOzYSBI4buNYy9rY3N1czRsY2lmZDhzeWNqcHFmZC5qcGc.webp"
+  },
+  {
+    "href": "/chuyen-ve-hoa/khoa-hoc-chuyen-sau",
+    "name": "Khóa Học Chuyên Nghiệp",
+    "level": "Nâng Cao",
+    "duration": "15 buổi học",
+    "price": "30.000.000 đ",
+    "description": "Nâng tầm kỹ năng để trở thành Florist chuyên nghiệp. Thành thạo kỹ thuật cắm hoa sự kiện, kệ hoa khai trương và giỏ hoa cao cấp.",
+    "image": "https://cdn.thofleur.com/cfNILghmKdI5M3qoG89tB79c579DEjMbrD8BoXtV3XQ/resize:fit:1280:0/czM6Ly90aG9mbGV1ci1maWxlcy9LaMOzYSBI4buNYy9jcXpyN2lsMXkyYzVqcTJ6a2U5Yy5qcGc.webp"
+  },
+  {
+    "href": "/chuyen-ve-hoa/khoa-hoc-chuyen-sau",
+    "name": "Khóa Học Chuyên Sâu & Vận Hành",
+    "level": "Toàn Diện",
+    "duration": "22 buổi học",
+    "price": "60.000.000 đ",
+    "description": "Khóa học cao cấp nhất bao gồm toàn diện kỹ thuật Florist, tư vấn bán hàng, định giá và kết nối mạng lưới cung cấp hoa tươi mở tiệm.",
+    "image": "https://cdn.thofleur.com/iT2ShA3w38ybojs-r7uRbACAwBAe6Mxr49ikIIu6Bi0/resize:fit:1280:0/czM6Ly90aG9mbGV1ci1maWxlcy9LaMOzYSBI4buNYy96d3p3bWNnbjJ5c2VhZmR0ZXVjYi5qcGc.webp"
+  }
+]
